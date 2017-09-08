@@ -1,0 +1,21 @@
+﻿start=Start
+help=Help
+audio=Audio
+quit=Quit
+helptext=This is some random help text.
+back=Back
+mastervol=Master Volume
+musicvol=Music Volume
+sevol=Sound Effect Volume
+where=Where have you been?
+bigbrother=I've been at home watching Big Brother.
+here=I've been here ther whole time!
+voteout=Oh yeah, who got voted out?
+watchfordrama=Voted out? I just watch it for the drama!
+blind=Am I just blind?
+surprised=I'm actually surprised you noticed me at all.
+getperscription=Well, I was going to tell you to get a stronger perscription.
+thedrama=Sure, its the "drama".
+uhh=Uhhhh...
+notold=Come on, I'm not that old!
+
