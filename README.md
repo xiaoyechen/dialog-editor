@@ -36,7 +36,8 @@ Credits:
 * The testing scene is from tutorial https://unity3d.com/learn/tutorials/modules/intermediate/live-training-archive/modal-window
 
 Other References:
-http://gamedev.stackexchange.com/questions/103718/what-are-the-steps-to-instantiate-a-button-in-unity
-https://forum.unity3d.com/threads/editorwindow-draggable-gui-window-and-dragging-to-pan-solved.291413/
-https://docs.unity3d.com/ScriptReference/GenericMenu.html
-https://unity3d.com/learn/tutorials/topics/scripting/persistence-saving-and-loading-data
+
+  http://gamedev.stackexchange.com/questions/103718/what-are-the-steps-to-instantiate-a-button-in-unity
+  https://forum.unity3d.com/threads/editorwindow-draggable-gui-window-and-dragging-to-pan-solved.291413/
+  https://docs.unity3d.com/ScriptReference/GenericMenu.html
+  https://unity3d.com/learn/tutorials/topics/scripting/persistence-saving-and-loading-data
